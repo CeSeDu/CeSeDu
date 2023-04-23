@@ -1,7 +1,7 @@
 # SenaDurmus 💫 About Me:
 Hi 👋, I'm Sena :)<br>A passionate frontend developer from Turkey<br>🌱 I’m currently learning JavaScript,React
 
-<div align="center"><img src="https://i.pinimg.com/originals/96/c4/1d/96c41d290b7a0cd5d80ceebc3aaf9d15.gif"></div>
+<div align="center"><img src="[https://i.pinimg.com/originals/96/c4/1d/96c41d290b7a0cd5d80ceebc3aaf9d15.gif](https://i.pinimg.com/originals/54/c0/3e/54c03e32134dac515097ca7151a26cf1.gif)"></div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sena-durmus/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/cesedu02?t=nnmbpo6ld8e8ivz4ccxy0w&s=33) 
