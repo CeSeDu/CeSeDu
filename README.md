@@ -1,4 +1,4 @@
-# SenaDurmu-# 💫 About Me:
+# SenaDurmus 💫 About Me:
 Hi 👋, I'm Sena :)<br>A passionate frontend developer from Turkey<br>🌱 I’m currently learning JavaScript,React
 
 
