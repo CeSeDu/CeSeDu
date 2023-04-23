@@ -1,7 +1,6 @@
 # SenaDurmus 💫 About Me:
 Hi 👋, I'm Sena :)<br>A passionate frontend developer from Turkey<br>🌱 I’m currently learning JavaScript,React
 
-<div class="tenor-gif-embed" data-postid="4581850" data-share-method="host" data-aspect-ratio="1.50862" data-width="100%"><a href="https://tenor.com/view/free-dave-chappelle-celebrate-finally-freedom-gif-4581850">Free! GIF</a>from <a href="https://tenor.com/search/free-gifs">Free GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sena-durmus/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/cesedu02?t=nnmbpo6ld8e8ivz4ccxy0w&s=33) 
