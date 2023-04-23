@@ -12,10 +12,5 @@ Hi 👋, I'm Sena :)<br>A passionate frontend developer from Turkey<br>🌱 I’
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cesedu&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cesedu&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/cesedu02?t=nnmbpo6ld8e8ivz4ccxy0w&s=33)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
----
-[![](https://visitcount.itsvg.in/api?id=cesedu&icon=9&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
