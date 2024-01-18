@@ -1,5 +1,5 @@
 # SenaDurmus 💫 About Me:
-Hi 👋, I'm Sena :)<br>A passionate frontend developer from Turkey<br>🌱 I’m currently learning JavaScript,React <br>
+Hi 👋, I'm Sena :)<br>A passionate frontend developer from Turkey<br>🌱 I’m currently learning JavaScript, Angular <br>
 📫 How to reach me senadurmuss23@gmail.com
 
 <div align="center"><img src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif"></div>
